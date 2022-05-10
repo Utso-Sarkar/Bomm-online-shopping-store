@@ -1,0 +1,16 @@
+.container-fluid{
+    margin-bottom:100px;
+   
+    }
+    
+    
+    
+    .orrange-bg{
+        background-color:#fceae8;
+        border-radius: 20px;
+    
+    }
+    .carousel-item{
+        padding:40px 20px;
+    }
+    .price{
