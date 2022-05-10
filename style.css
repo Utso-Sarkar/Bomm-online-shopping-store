@@ -13,4 +13,10 @@
     .carousel-item{
         padding:40px 20px;
     }
-    .price{
+    .price{ color: #ff136f;
+    }
+    .buy-now-button{ 
+        color: white;
+        background-color: #ff136f
+    }
+    
